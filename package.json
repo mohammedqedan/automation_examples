@@ -1,0 +1,27 @@
+{
+  "name": "automation_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node functions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedqedan/automation_examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedqedan/automation_examples/issues"
+  },
+  "homepage": "https://github.com/mohammedqedan/automation_examples#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
